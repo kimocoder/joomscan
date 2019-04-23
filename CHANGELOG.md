@@ -1,3 +1,9 @@
+OWASP JoomScan 1.0.0 [kimocoder challenge]
+* Added logging module
+* Moved modules into joomscan.pl
+* Re-wrote and moved lots of strings and functions
+++++++
+
 OWASP JoomScan 0.0.7 [Self Challenge]
 ============
 * com_joomanager exploiter removed
