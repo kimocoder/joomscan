@@ -1,2 +1,4 @@
-#Ignore reports
 reports/*
+*~
+*.txt
+*.html
